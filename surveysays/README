@@ -1,4 +1,6 @@
-Example application for Railscasts. To get started:
+Example application for Railscasts modified for proof of concept of module RestControllerMethods. 
+
+To get started:
 
   rake db:migrate
   script/server
